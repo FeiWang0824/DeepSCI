@@ -1,2 +1,2 @@
 # DeepSCI
-This code will be available after our DeepSCI paper is published
+This code will become available following the publication of our DeepSCI paper.
